@@ -52,6 +52,7 @@ body {
     line-height: 1.7;
     transition: background .3s, color .3s;
     overflow-x: hidden;
+
 }
 a {
     color: inherit;
